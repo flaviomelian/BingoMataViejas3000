@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="350dp"
+        android:layout_height="234dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="200dp"
+        android:fontFamily="@font/aclonica"
+        android:text="FIN DEL JUEGO, GRACIAS POR PARTICIPAR"
+        android:textAppearance="@android:style/TextAppearance.Material.Display3"
+        android:textSize="45dp"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/gotomainmenu"
+        android:layout_width="259dp"
+        android:layout_height="74dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="70dp"
+        android:src="@drawable/border_button"
+        android:textSize="20dp"
+        android:text="VOLVER AL MENÚ PRINCIPAL" />
+</LinearLayout>

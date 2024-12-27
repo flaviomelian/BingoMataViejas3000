@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bingo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="empezar">EMPEZAR</string>
+    <string name="title_activity_game">Game</string>
+    <string name="title_activity_end">End</string>
+</resources>
